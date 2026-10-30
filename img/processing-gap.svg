@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" width="640" height="260" font-family="system-ui, sans-serif">
+  <rect width="640" height="260" fill="#fbf7f1"/>
+  <line x1="40" y1="200" x2="600" y2="200" stroke="#5b6a68"/>
+  <g font-size="12" fill="#5b6a68" text-anchor="middle"><text x="40" y="222">1:00</text><text x="180" y="222">1:30</text><text x="320" y="222">2:00</text><text x="460" y="222">2:30</text><text x="600" y="222">3:00</text></g>
+  <rect x="40" y="80" width="200" height="80" rx="10" fill="#1e6b6c"/>
+  <text x="140" y="125" text-anchor="middle" font-size="13" fill="#fff" font-weight="600">Colour: apply</text>
+  <rect x="240" y="80" width="187" height="80" rx="10" fill="none" stroke="#1e6b6c" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="333" y="72" text-anchor="middle" font-size="12" fill="#5b6a68">processing (40 min)</text>
+  <rect x="254" y="96" width="140" height="48" rx="8" fill="#f26b4f"/>
+  <text x="324" y="125" text-anchor="middle" font-size="13" fill="#fff" font-weight="600">Men’s cut</text>
+  <rect x="427" y="80" width="173" height="80" rx="10" fill="#1e6b6c"/>
+  <text x="513" y="125" text-anchor="middle" font-size="13" fill="#fff" font-weight="600">Rinse + finish</text>
+</svg>

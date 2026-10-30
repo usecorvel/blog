@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 220" width="680" height="220" font-family="system-ui, sans-serif">
+  <rect width="680" height="220" fill="#fbf7f1"/>
+  <g>
+    <rect x="20" y="70" width="120" height="80" rx="14" fill="#fff" stroke="#e1d9cc" stroke-width="2"/>
+    <text x="80" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#13201f">Slot opens</text>
+    <text x="80" y="124" text-anchor="middle" font-size="12" fill="#5b6a68">Thu 10:00</text>
+  </g>
+  <g fill="#fff" stroke="#e1d9cc" stroke-width="2">
+    <rect x="190" y="70" width="120" height="80" rx="14"/>
+    <rect x="360" y="70" width="120" height="80" rx="14"/>
+    <rect x="530" y="70" width="130" height="80" rx="14" stroke="#1e6b6c" stroke-width="3"/>
+  </g>
+  <g text-anchor="middle" font-size="13" fill="#13201f" font-weight="700">
+    <text x="250" y="102">Client 1</text><text x="420" y="102">Client 2</text><text x="595" y="102">Client 3</text>
+  </g>
+  <g text-anchor="middle" font-size="12">
+    <text x="250" y="124" fill="#f26b4f">no reply</text><text x="420" y="124" fill="#f26b4f">“can’t, sorry”</text><text x="595" y="124" fill="#1e6b6c" font-weight="700">“yes!” booked</text>
+  </g>
+  <g stroke="#5b6a68" stroke-width="2" fill="none">
+    <path d="M142 110h44"/><path d="M178 104l8 6-8 6"/>
+    <path d="M312 110h44"/><path d="M348 104l8 6-8 6"/>
+    <path d="M482 110h44"/><path d="M518 104l8 6-8 6"/>
+  </g>
+  <g text-anchor="middle" font-size="11" fill="#5b6a68"><text x="334" y="176">10 min</text><text x="504" y="176">10 min</text></g>
+</svg>

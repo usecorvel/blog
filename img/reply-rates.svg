@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="system-ui, sans-serif">
+  <rect width="640" height="300" fill="#fbf7f1"/>
+  <g font-size="14" fill="#13201f">
+    <text x="30" y="72">Text: replied</text>
+    <text x="30" y="142">Text: replied in 1 hr</text>
+    <text x="30" y="212">Call: reached a person</text>
+  </g>
+  <rect x="200" y="50" width="400" height="32" rx="6" fill="#f1ebe1"/>
+  <rect x="200" y="50" width="296" height="32" rx="6" fill="#1e6b6c"/>
+  <rect x="200" y="120" width="400" height="32" rx="6" fill="#f1ebe1"/>
+  <rect x="200" y="120" width="181" height="32" rx="6" fill="#1e6b6c" opacity=".75"/>
+  <rect x="200" y="190" width="400" height="32" rx="6" fill="#f1ebe1"/>
+  <rect x="200" y="190" width="132" height="32" rx="6" fill="#f26b4f"/>
+  <g font-size="14" font-weight="700" fill="#fff"><text x="470" y="71">74%</text><text x="347" y="141">45%</text><text x="300" y="211">33%</text></g>
+  <text x="200" y="262" font-size="12" fill="#5b6a68">“Replied in 1 hr” is 61% of the 74% who replied, about 45% of all reminders.</text>
+</svg>

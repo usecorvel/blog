@@ -1,0 +1,21 @@
+---
+layout: base.njk
+---
+<article class="post">
+	<header class="post-head">
+		<p class="meta">
+			<time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time>
+			· {{ author }}
+		</p>
+		<h1>{{ title }}</h1>
+		<p class="dek">{{ description }}</p>
+	</header>
+	<div class="prose">
+		{{ content | safe }}
+	</div>
+	<aside class="post-cta">
+		<p><strong>Corvel answers your clients' texts and fills cancelled slots from your waitlist.</strong></p>
+		<a class="button" href="{{ site.mainSite }}/contact">Book a 20-minute demo</a>
+	</aside>
+	<p><a href="/">← All posts</a></p>
+</article>
